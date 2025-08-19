@@ -6,6 +6,12 @@ body {
     font-family: "Libertinus Sans", sans-serif;
 }
 
+.container {
+    width: 600px;
+    margin: 0 auto;
+    padding-top: 30px;
+}
+
 h1, h2 {
     font-family: "Edu NSW ACT Cursive", cursive;
 }
