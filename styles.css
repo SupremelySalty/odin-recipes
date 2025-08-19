@@ -16,6 +16,20 @@ h1, h2 {
     font-family: "Edu NSW ACT Cursive", cursive;
 }
 
+.dark-brown {
+    color: #5f4330;
+}
+
+.light-brown {
+    color:#c48358;
+}
+
+.heading {
+    background:#5f4330;
+    padding: 5px 10px;
+    border-radius: 10px;
+}
+
 .button {
     background-color: #5f4330;
     color: white;
