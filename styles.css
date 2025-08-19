@@ -30,6 +30,11 @@ h1, h2 {
     border-radius: 10px;
 }
 
+.homepage-head {
+    color: #883c18;
+    font-size: 48px;
+}
+
 .button {
     background-color: #5f4330;
     color: white;
