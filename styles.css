@@ -41,7 +41,8 @@ h1, h2 {
 
 .homepage-head {
     color: #883c18;
-    font-size: 48px;
+    font-size: 56px;
+    text-align: center;
 }
 
 .button {
